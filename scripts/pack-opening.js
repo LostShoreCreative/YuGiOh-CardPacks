@@ -72,7 +72,7 @@ const cards =
 ]
 const packs = 
 [
-//  {"cards" : [2,2,2,2,2,2,2,2,2], "opened": false}, => commented out tester
+  {"cards" : [12,16,28,31,32,23,22,20,2], "opened": false},
   {"cards" : [0,1,7,5,4,15,11,6,17], "opened": false},
   {"cards" : [3,10,13,9,12,14,16,18,20], "opened": false},
   {"cards" : [21,24,31,33,38,41,26,42,22], "opened": false},
