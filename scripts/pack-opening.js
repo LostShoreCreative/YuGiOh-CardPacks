@@ -86,7 +86,7 @@ var cur_card = 0;
 var selected_pack;
 var selected_card;
 
-var firstClick = false;
+var firstClick = false; //I can't explain why but if we don't validate that it was clicked once things break
 var id = null;
 
 //For move animation later, refers to position of the pile. 
